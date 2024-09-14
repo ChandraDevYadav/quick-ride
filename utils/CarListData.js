@@ -1,42 +1,42 @@
 export const carListData = [
     {
         id: 1,
-        name:'Uber X',
+        name:'Taxi A',
         seat:4,
         desc:'Affordable, Everyday rides',
-        amount:3.5,
+        amount:55,
         image:'/taxi.png'
     },
     {
         id: 2,
-        name:'Uber Y',
+        name:'Taxi B',
         seat:4,
         desc:'Affordable, Everyday rides',
-        amount:5,
+        amount:45,
         image:'/taxi.png'
     },
     {
         id: 3,
-        name:'Uber Z',
+        name:'Taxi C',
         seat:4,
         desc:'Affordable, Everyday rides',
-        amount:6,
+        amount:50,
         image:'/taxi.png'
     },
     {
         id: 4,
-        name:'Uber W',
-        seat:4,
+        name:'Taxi D',
+        seat:8,
         desc:'Affordable, Everyday rides',
-        amount:7,
+        amount:60,
         image:'/taxi.png'
     },
     {
         id: 5,
-        name:'Uber V',
-        seat:4,
+        name:'Taxi E',
+        seat:8,
         desc:'Affordable, Everyday rides',
-        amount:8,
+        amount:80,
         image:'/taxi.png'
     }
 ]
